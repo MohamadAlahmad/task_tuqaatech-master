@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "259905203587",
+    "project_id": "tuqaa-tech-test",
+    "storage_bucket": "tuqaa-tech-test.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:259905203587:android:9c0f18cb9b3d9874741ab6",
+        "android_client_info": {
+          "package_name": "com.daddow.test.task_tuqaatech"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "259905203587-lo98am2uvoks9in578rl3551sofame6p.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAXG9HdfAKU51FlGPSiekDMY1D0HPtE6jk"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "259905203587-lo98am2uvoks9in578rl3551sofame6p.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

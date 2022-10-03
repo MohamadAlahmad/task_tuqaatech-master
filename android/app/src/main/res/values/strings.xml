@@ -1,0 +1,5 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <item name="appName" type="string">Tuqaatech Task Test</item>
+    <item name="flavor" type="string">app_test</item>
+</resources>
